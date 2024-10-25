@@ -6,6 +6,8 @@
 .container{
     width: 1300px;
     padding:10px 10px 100px 50px;
+    margin-top: 100px;
+    margin-left: 1300px;
 }
 .box{
     background-color: aqua;
